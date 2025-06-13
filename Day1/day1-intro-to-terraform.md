@@ -8,7 +8,5 @@
 
 ## Additional Notes
 
-- I learned how important Terraform is for driving efficient DevOps processes for Software Development and Deployment.
-- I learned the foundational principles of Terraform, and benefits such as version control, scalability, and flexibility across multiple vendors, etc.
-- I provisioned and destroyed my first NGINX webserver with Terraform. This helped me understand the basics of the Terraform workflow which Bryan spoke about earlier today.
-
+- Almost everything can be managed in code.
+- Benefits of IAC such as version control, scalability, and flexibility across multiple vendors, etc.
