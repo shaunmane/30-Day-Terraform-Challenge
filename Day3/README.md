@@ -1,4 +1,4 @@
-# C
+# Day 3: Deploying Basic Infrastructure with Terraform
 
 ## Overview
 
